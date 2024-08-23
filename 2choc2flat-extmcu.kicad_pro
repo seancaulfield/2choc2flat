@@ -133,7 +133,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "plain60-c.kicad_pro",
+    "filename": "2choc2flat-extmcu.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -185,9 +185,9 @@
     "last_paths": {
       "gencad": "",
       "idf": "",
-      "netlist": "plain60-c.net",
+      "netlist": "2choc2flat-extmcu.net",
       "specctra_dsn": "",
-      "step": "plain60-c.step",
+      "step": "2choc2flat-extmcu.step",
       "vmrl": ""
     },
     "page_layout_descr_file": ""
