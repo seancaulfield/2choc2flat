@@ -581,7 +581,6 @@
     )
   )
 
-
   (junction (at 189.23 181.61) (diameter 0) (color 0 0 0 0)
     (uuid 012023c1-75d5-42bb-a5d6-9afa9a06a07a)
   )
@@ -4709,7 +4708,7 @@
     (property "Value" "KEYSW" (id 1) (at 161.29 224.79 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh_mine:SW_Hotswap_Kailh_Choc_V2_6.25u_North_Gateron_LP_Stabs" (id 2) (at 161.29 222.25 0)
+    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh_mine:SW_Hotswap_Kailh_Choc_V2_6.25u" (id 2) (at 161.29 222.25 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 161.29 222.25 0)
@@ -5513,7 +5512,7 @@
       (reference "K63") (unit 1) (value "KEYSW") (footprint "Switch_Keyboard_Hotswap_Kailh_mine:SW_Hotswap_Kailh_Choc_V2_1.25u")
     )
     (path "/00000000-0000-0000-0000-00005c555e38"
-      (reference "K67") (unit 1) (value "KEYSW") (footprint "Switch_Keyboard_Hotswap_Kailh_mine:SW_Hotswap_Kailh_Choc_V2_6.25u_North_Gateron_LP_Stabs")
+      (reference "K67") (unit 1) (value "KEYSW") (footprint "Switch_Keyboard_Hotswap_Kailh_mine:SW_Hotswap_Kailh_Choc_V2_6.25u")
     )
     (path "/00000000-0000-0000-0000-00005cb7e685"
       (reference "K71") (unit 1) (value "KEYSW") (footprint "Switch_Keyboard_Hotswap_Kailh_mine:SW_Hotswap_Kailh_Choc_V2_1.00u")
