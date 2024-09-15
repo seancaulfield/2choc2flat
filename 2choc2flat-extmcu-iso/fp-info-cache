@@ -1,4 +1,4 @@
-21736295955992206
+21732846372075127
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -92147,34 +92147,20 @@ varistor SIOV
 0
 2
 2
-footprints
+schizobovine
+3_5x2.5mm
+
+
+0
+1
+1
+schizobovine
 5.5_5x2.5mm
 
 
 0
 1
 1
-footprints
-10x5_7x2.5mm
-
-
-0
-1
-1
-footprints
-free_pin
-
-
-0
-1
-1
-footprints
-oshw
-
-
-0
-0
-0
 schizobovine
 COW
 
