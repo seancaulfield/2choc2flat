@@ -1,4 +1,4 @@
-21739751935591536
+21748414328204127
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -92190,6 +92190,20 @@ schizobovine
 1
 1
 schizobovine
+8x3.5_7x2.5mm
+
+
+0
+1
+1
+schizobovine
+10x5_7x2.5mm
+
+
+0
+1
+1
+schizobovine
 COW
 
 
@@ -92211,9 +92225,30 @@ capacitor
 2
 2
 schizobovine
+LED_1206_3216Metric_ReverseMount_Hole1.8x2.4mm
+LED SMD 1206 (3216 Metric), reverse mount, square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+diode reverse
+0
+2
+2
+schizobovine
+MountingHole_2.2mm_M2_Pad_TopOnly
+Mounting Hole 2.2mm, M2
+mounting hole 2.2mm m2
+0
+2
+1
+schizobovine
 R_0603_1608Metric
 Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
 resistor
 0
 2
 2
+schizobovine
+oshw
+
+
+0
+0
+0
