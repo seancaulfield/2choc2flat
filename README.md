@@ -1,4 +1,4 @@
-# 2 Choc 2 Flat v1.3
+# 2 Choc 2 Flat v1.5
 
 ![2 Choc 2 Flat PCB](https://github.com/seancaulfield/2choc2flat/)
 Low profile 60% PCB designed for Choc V2 switches in hot swap sockets. Based on the Plain60-C design.
@@ -17,6 +17,8 @@ Low profile 60% PCB designed for Choc V2 switches in hot swap sockets. Based on 
 * 64-65 SOD-323 diodes
 * 2 1x9 0.1" header
 * 1 1x5 0.1" header
+* 2 1206 reverse mount LEDs (for capslock)
+* 2 0603 ~470ohm resistors (for capslock LEDs)
 * Gateron low-profile stabilizers (1 6.25U, 2-3 2U)
 * Plate compatible with Gateron low-profile stabilizers
   * any Cherry plate mount stabilizer compatible should do
