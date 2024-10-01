@@ -58,10 +58,12 @@
       "drc_exclusions": [
         "copper_edge_clearance|-425000|57125000|4e9e894e-c832-4c6e-8a48-d1d31efcc01f|44f6ab48-9bfc-419e-8085-cf895d2c69ff",
         "copper_edge_clearance|-425000|57125000|4e9e894e-c832-4c6e-8a48-d1d31efcc01f|51ec6cfa-2184-4e13-9dfd-d19952f29fea",
+        "copper_edge_clearance|-425000|57125000|4e9e894e-c832-4c6e-8a48-d1d31efcc01f|670bef89-28c0-4e74-95be-1755d7ed65b7",
         "copper_edge_clearance|-425000|57125000|4e9e894e-c832-4c6e-8a48-d1d31efcc01f|b731a99b-f7cc-41cd-9354-097553809400",
         "copper_edge_clearance|285225000|56896000|e25761c2-ee08-4594-b023-bbee28b04498|2796c524-bb56-418d-8340-b22f4d12c899",
         "copper_edge_clearance|285225000|57125000|e25761c2-ee08-4594-b023-bbee28b04498|2796c524-bb56-418d-8340-b22f4d12c899",
         "copper_edge_clearance|286222000|56896000|e25761c2-ee08-4594-b023-bbee28b04498|2968363f-faaa-4671-827a-56383d2418ba",
+        "copper_edge_clearance|286222000|57125000|e25761c2-ee08-4594-b023-bbee28b04498|078a2270-13a6-43be-b656-eed41e378997",
         "copper_edge_clearance|286222000|57125000|e25761c2-ee08-4594-b023-bbee28b04498|33a40f8f-2d45-463b-804c-62f0802f7c88",
         "copper_edge_clearance|286225000|56896000|e25761c2-ee08-4594-b023-bbee28b04498|c712a482-1be1-4ea6-b699-6ba59250d734",
         "copper_edge_clearance|525000|57125000|4e9e894e-c832-4c6e-8a48-d1d31efcc01f|1c7a5331-9e9a-4f9c-84f5-7abf4189dc27",
@@ -176,7 +178,14 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [],
+    "erc_exclusions": [
+      "pin_not_connected|1866900|2628900|447ea877-a538-49df-bfa5-932f22946d7b|00000000-0000-0000-0000-000000000000",
+      "pin_not_connected|2730500|2197100|ae6ba99d-581f-4dd4-a8d5-c0fe32d26f12|00000000-0000-0000-0000-000000000000",
+      "pin_not_connected|3467100|361950|dfda6b6f-caaa-4765-b158-8d972bf2e9fc|00000000-0000-0000-0000-000000000000",
+      "power_pin_not_driven|1028700|2705100|592ce467-798a-4d28-9eca-5e50a503b724|00000000-0000-0000-0000-000000000000",
+      "power_pin_not_driven|1257300|2336800|f095b84f-15dd-405a-af43-3f48581f6729|00000000-0000-0000-0000-000000000000",
+      "power_pin_not_driven|3822700|361950|b986c42d-d123-4a0c-ac00-5a5e1805becc|00000000-0000-0000-0000-000000000000"
+    ],
     "meta": {
       "version": 0
     },
@@ -479,7 +488,7 @@
       "workbook_filename": ""
     },
     "page_layout_descr_file": "",
-    "plot_directory": "",
+    "plot_directory": "schematics/",
     "spice_adjust_passive_values": false,
     "spice_external_command": "spice \"%I\"",
     "subpart_first_id": 65,
