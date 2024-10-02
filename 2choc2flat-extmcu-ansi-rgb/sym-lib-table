@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "2choc2flat-extmcu-cache")(type "Legacy")(uri "${KIPRJMOD}/2choc2flat-extmcu-ansi-rgb-cache.lib")(options "")(descr ""))
+)
