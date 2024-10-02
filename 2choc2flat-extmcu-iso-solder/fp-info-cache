@@ -1,0 +1,134 @@
+32806686927189
+schizobovine
+3_5x2.5mm
+
+
+0
+1
+1
+schizobovine
+5.5_5x2.5mm
+
+
+0
+1
+1
+schizobovine
+8x3.5_7x2.5mm
+
+
+0
+1
+1
+schizobovine
+10x5_7x2.5mm
+
+
+0
+1
+1
+schizobovine
+COW
+
+
+0
+0
+0
+schizobovine
+C_0603_1608Metric
+Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+schizobovine
+C_0805_2012Metric
+Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+schizobovine
+LED_1206_3216Metric_ReverseMount_Hole1.8x2.4mm
+LED SMD 1206 (3216 Metric), reverse mount, square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+diode reverse
+0
+2
+2
+schizobovine
+LED_SK6805_PLCC4_2.4x2.7mm_P1.3mm
+https://cdn-shop.adafruit.com/product-files/3484/3484_Datasheet.pdf
+LED RGB NeoPixel Nano
+0
+4
+4
+schizobovine
+LED_SK6812MINI_PLCC4_3.1x2.7mm_P1.75mm_reverse_mount
+https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf
+LED RGB NeoPixel Mini
+0
+4
+4
+schizobovine
+LED_SK6812MINI_PLCC4_3.5x2.8mm_P1.75mm_reverse_mount
+https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf
+LED RGB NeoPixel Mini
+0
+4
+4
+schizobovine
+LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm
+https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf
+LED RGB NeoPixel Mini
+0
+4
+4
+schizobovine
+LED_SK6812_EC15_1.5x1.5mm
+http://www.newstar-ledstrip.com/product/20181119172602110.pdf
+LED RGB NeoPixel
+0
+4
+4
+schizobovine
+LED_WS2812B_NANO_2020
+
+
+0
+4
+4
+schizobovine
+MountingHole_2.2mm_M2_Pad_TopOnly
+Mounting Hole 2.2mm, M2
+mounting hole 2.2mm m2
+0
+2
+1
+schizobovine
+R_0603_1608Metric
+Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+resistor
+0
+2
+2
+schizobovine
+WAVESHARE_RP2040_TINY
+
+
+0
+23
+23
+schizobovine
+WAVESHARE_RP2040_TINY_SLIM
+
+
+0
+23
+23
+schizobovine
+oshw
+
+
+0
+0
+0
