@@ -1,4 +1,4 @@
-434543872717304
+451826498242828
 Switch_Keyboard_Hotswap_Kailh_mine
 SW_Hotswap_Kailh_Choc_V1
 Kailh Choc keyswitch V1 CPG1350 V1 Hotswap
@@ -1064,6 +1064,13 @@ Kailh Choc Keyswitch Switch CPG1353 V2 Hotswap Cutout Keycap 6.25u
 2
 2
 Switch_Keyboard_Hotswap_Kailh_mine
+SW_Hotswap_Kailh_Choc_V2_6.25u_special2
+Kailh Choc keyswitch V2 CPG1353 V2 Hotswap Keycap 6.25u
+Kailh Choc Keyswitch Switch CPG1353 V2 Hotswap Cutout Keycap 6.25u
+0
+2
+2
+Switch_Keyboard_Hotswap_Kailh_mine
 SW_Hotswap_Kailh_Choc_V2_6.50u
 Kailh Choc keyswitch V2 CPG1353 V2 Hotswap Keycap 6.50u
 Kailh Choc Keyswitch Switch CPG1353 V2 Hotswap Cutout Keycap 6.50u
@@ -1762,4 +1769,67 @@ Kailh keyswitch Hotswap Socket plated holes Keycap ISOEnter 270deg
 Kailh Keyboard Keyswitch Switch Hotswap Socket Plated Relief Cutout Keycap ISOEnter 270deg
 0
 6
+2
+Switch_Keyboard_Hotswap_Kailh_mine
+SW_Soldered_Kailh_Choc_V2_1.00u
+Kailh Choc keyswitch V2 CPG1353 V2 Hotswap Keycap 1.00u
+Kailh Choc Keyswitch Switch CPG1353 V2 Hotswap Cutout Keycap 1.00u
+0
+3
+2
+Switch_Keyboard_Hotswap_Kailh_mine
+SW_Soldered_Kailh_Choc_V2_1.25u
+Kailh Choc keyswitch V2 CPG1353 V2 Hotswap Keycap 1.25u
+Kailh Choc Keyswitch Switch CPG1353 V2 Hotswap Cutout Keycap 1.25u
+0
+3
+2
+Switch_Keyboard_Hotswap_Kailh_mine
+SW_Soldered_Kailh_Choc_V2_1.50u
+Kailh Choc keyswitch V2 CPG1353 V2 Hotswap Keycap 1.50u
+Kailh Choc Keyswitch Switch CPG1353 V2 Hotswap Cutout Keycap 1.50u
+0
+3
+2
+Switch_Keyboard_Hotswap_Kailh_mine
+SW_Soldered_Kailh_Choc_V2_1.75u
+Kailh Choc keyswitch V2 CPG1353 V2 Hotswap Keycap 1.75u
+Kailh Choc Keyswitch Switch CPG1353 V2 Hotswap Cutout Keycap 1.75u
+0
+3
+2
+Switch_Keyboard_Hotswap_Kailh_mine
+SW_Soldered_Kailh_Choc_V2_2.00u_0deg_Gateron_LP_Stabs
+Kailh Choc keyswitch V2 CPG1353 V2 Hotswap Keycap 2.00u 90deg
+Kailh Choc Keyswitch Switch CPG1353 V2 Hotswap Cutout Keycap 2.00u 90deg
+0
+3
+2
+Switch_Keyboard_Hotswap_Kailh_mine
+SW_Soldered_Kailh_Choc_V2_2.00u_90deg_Gateron_LP_Stabs
+Kailh Choc keyswitch V2 CPG1353 V2 Hotswap Keycap 2.00u 90deg
+Kailh Choc Keyswitch Switch CPG1353 V2 Hotswap Cutout Keycap 2.00u 90deg
+0
+3
+2
+Switch_Keyboard_Hotswap_Kailh_mine
+SW_Soldered_Kailh_Choc_V2_2.00u_270deg_Gateron_LP_Stabs
+Kailh Choc keyswitch V2 CPG1353 V2 Hotswap Keycap 2.00u 270deg
+Kailh Choc Keyswitch Switch CPG1353 V2 Hotswap Cutout Keycap 2.00u 90deg
+0
+3
+2
+Switch_Keyboard_Hotswap_Kailh_mine
+SW_Soldered_Kailh_Choc_V2_6.25u
+Kailh Choc keyswitch V2 CPG1353 V2 Hotswap Keycap 6.25u
+Kailh Choc Keyswitch Switch CPG1353 V2 Hotswap Cutout Keycap 6.25u
+0
+3
+2
+Switch_Keyboard_Hotswap_Kailh_mine
+SW_Soldered_Kailh_Choc_V2_ISOEnter_West_Gateron_LP_Stabs
+Kailh Choc keyswitch V2 CPG1353 V2 Hotswap Keycap ISOEnter
+Kailh Choc Keyswitch Switch CPG1353 V2 Hotswap Cutout Keycap ISOEnter
+0
+3
 2
